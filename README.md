@@ -2,18 +2,18 @@
 
 Osnova kurzu React od Czechitas.
 
-- Lekce 1 - Opakování JavaScriptu
-- Lekce 2 - NPM, Webpack a vytváření nových projektů
-- Lekce 3 - JSX, render a první komponenty
-- Lekce 4 - Komponenty a props, podmíněné zobrazení
-- Lekce 5 - Zobrazování seznamů
-- Lekce 6 - Události, stav komponenty
-- Lekce 7 - Formulářové prvky, efekty
-- Lekce 8 - Komunikace mezi komponentami: rodič / potomek
-- Lekce 9 - Komunikace mezi komponentami: mezi sourozenci
-- Lekce 10 - React Router
-- Lekce 11 - Projekt, část 1
-- Lekce 12 - Projekt, část 2
+- [Lekce 1 - Opakování JavaScriptu](#lekce-1---opakování-javascriptu)
+- [Lekce 2 - NPM, Webpack a vytváření nových projektů](#lekce-2---npm-webpack-a-vytváření-nových-projektů)
+- [Lekce 3 - JSX, render a první komponenty](#lekce-3---jsx-render-a-první-komponenty)
+- [Lekce 4 - Komponenty a props, podmíněné zobrazení](#lekce-4---komponenty-a-props-podmíněné-zobrazení)
+- [Lekce 5 - Zobrazování seznamů](#lekce-5---zobrazování-seznamů)
+- [Lekce 6 - Události, stav komponenty](#lekce-6---události-stav-komponenty)
+- [Lekce 7 - Formulářové prvky, efekty](#lekce-7---formulářové-prvky-efekty)
+- [Lekce 8 - Komunikace mezi komponentami: rodič / potomek](#lekce-8---)
+- [Lekce 9 - Komunikace mezi komponentami: mezi sourozenci](#lekce-9---)
+- [Lekce 10 - React Router](#lekce-10---)
+- [Lekce 11 - Projekt, část 1](#lekce-11---)
+- [Lekce 12 - Projekt, část 2](#lekce-10---)
 
 
 
@@ -71,13 +71,13 @@ Osnova kurzu React od Czechitas.
 - Jak pomocí efektů reagovat na překreslení komponenty.
 
 
-## Lekce 8 - Komunikace mezi komponentami (rodič / potomek)
+## Lekce 8 - Komunikace mezi komponentami: rodič / potomek
 
 - V této lekci se naučíme, jak mohou komponenty komunikovat mezi sebou a vyměňovat si informace.
 - Budeme se věnovat komunikaci mezi rodičovskou a vnořenou komponentou (rodič vs. potomek) v obou směrech.
 
 
-## Lekce 9 - Pokračování komunikace mezi komponentami (mezi sourozenci)
+## Lekce 9 - Komunikace mezi komponentami: mezi sourozenci
 
 - Navážeme na předchozí lekci a ukážeme si, jak spolu mohou vzájemně komunikovat sourozenecké komponenty (mají společného rodiče).
 - Tento způsob komunikace je složitější než předchozí rodič / dítě, budemě věnovat hodně času praktickým příkladům.
