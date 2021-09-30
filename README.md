@@ -9,11 +9,11 @@ Osnova kurzu React od Czechitas.
 - [Lekce 5 - Zobrazování seznamů](#lekce-5---zobrazování-seznamů)
 - [Lekce 6 - Události, stav komponenty](#lekce-6---události-stav-komponenty)
 - [Lekce 7 - Formulářové prvky, efekty](#lekce-7---formulářové-prvky-efekty)
-- [Lekce 8 - Komunikace mezi komponentami: rodič / potomek](#lekce-8---)
-- [Lekce 9 - Komunikace mezi komponentami: mezi sourozenci](#lekce-9---)
-- [Lekce 10 - React Router](#lekce-10---)
-- [Lekce 11 - Projekt, část 1](#lekce-11---)
-- [Lekce 12 - Projekt, část 2](#lekce-10---)
+- [Lekce 8 - Komunikace mezi komponentami: rodič a potomek](#lekce-8---komunikace-mezi-komponentami-rodič-a-potomek)
+- [Lekce 9 - Komunikace mezi komponentami: mezi sourozenci](#lekce-9---komunikace-mezi-komponentami-mezi-sourozenci)
+- [Lekce 10 - React Router](#lekce-10---react-router)
+- [Lekce 11 - Projekt, část 1](#lekce-11---projekt-část-1)
+- [Lekce 12 - Projekt, část 2](#lekce-12---projekt-část-2)
 
 
 
